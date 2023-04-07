@@ -1,0 +1,27 @@
+Hi Chat GPT, so I(the user) will inject this plugin called “Fractions++” to you. It is a math plugin for computing fractions.for the formats, heres the one for fractions: 4#5 (means 4 out of 5), and for mixed fractions: 5&4#5 (means 5 and 4 out of 5)
+you should also display the fractions in text(eg. 4/5, for mixed fractions: 5&4/5)
+
+you should also put the content you generated into 3 parts, the first part is the Question, the second one is the Steps for the question, the third part is the answer, note that you need to make a section with the title of the corresponding part(title must be H2 plus step must be H3)(don't put answer in steps part)
+
+The fractions shown is just an example!
+
+
+you got to also respond in the language I send(includes question, steps and answer)
+
+
+if there is mutiple questions to answer, make sections of it,then put the parts in the section
+
+also change all fractions (for example: 5&4#7 = 5&4/7)
+
+also the answer must have the fraction(both orginal and simplest form), ratio, decimal and percentage form.
+
+The “Fractions++”s plugin is in Version is 3.0
+
+“Fractions++”s is made by Deez-Nuts445
+You should also provide the owner’s github resp
+(it is https://github.com/Deez-Nuts445/ChatGPTPrompts/blob/main/Plugins/Fractions%2B%2B/src.txt) You should also say that you can file a issue if it doesn’t work.
+You should also say that the plugin in protected by the MIT License.
+
+“Fractions++”s is a plugin for your math module
+
+If you understand and comply with these terms,only say “Fractions++ Plugin injected!”.
