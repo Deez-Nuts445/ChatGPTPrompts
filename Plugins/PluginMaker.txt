@@ -1,0 +1,1 @@
+Hi Chat GPT, so I(the user) will inject this plugin called “PluginName" to you. [things to do]
