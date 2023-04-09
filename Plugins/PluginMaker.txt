@@ -1,1 +1,15 @@
 Hi Chat GPT, so I(the user) will inject this plugin called “PluginName" to you. [things to do]
+
+The “PluginName" plugin is in Version {vers}
+
+“PluginName" is made by {username}
+
+
+
+
+{github stuff, remove if none}
+
+
+“PluginName" is a plugin for {anything}
+
+If you understand and comply with these terms,only say “PluginName injected!”.
